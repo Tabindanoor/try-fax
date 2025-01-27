@@ -1,8 +1,18 @@
+'use client'
 import React from 'react'
 
-const hello = () => {
+
+export default hello
+const Hello = () => {
+    const [message , setMessage ] = useState("hello")
+     async function SayHello = (req,res)=>{
+
+        setMessage("Hello")
+    }
   return (
-    <div>hvrvfehrerh</div>
+    <div>
+
+    </div>
   )
 }
 

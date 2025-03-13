@@ -6,7 +6,6 @@ const page = () => {
 
 
 
-      fax is going to be live in sha Allah in Ramadan
     </div>
   )
 }
